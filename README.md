@@ -1,2 +1,2 @@
-# qraphQL implementation using Graphene and Mongodb
-[graphene-python.org/]
+# qraphQL implementation using [Graphene](graphene-python.org/) and Mongodb
+
